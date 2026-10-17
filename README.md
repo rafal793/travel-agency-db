@@ -45,7 +45,7 @@ USE TravelAgency;
 GO
 ```
 
-1. Run the whole file `schema.sql`.
+3. Run the whole file `schema.sql`.
 
 The script:
 
